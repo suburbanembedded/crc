@@ -4,5 +4,5 @@ add_library(crc
 )
 
 target_include_directories(crc PUBLIC
-	include/crc
+	include
 )
